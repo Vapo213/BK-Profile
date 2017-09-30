@@ -62,7 +62,7 @@ export class ProfileComponent {
     },
     {
       name: 'Luck',
-      score: 7,
+      score: 1,
     },
     {
       name: 'Wisdom',
@@ -70,11 +70,11 @@ export class ProfileComponent {
     },
     {
       name: 'Bluemix',
-      score: 4,
+      score: 70,
     },
     {
       name: 'Teamwork',
-      score: 1+2,
+      score: 50,
     },
     {
       name: 'Power',
@@ -82,7 +82,7 @@ export class ProfileComponent {
     },
     {
       name: 'Jokes',
-      score: -1,
+      score: 20,
     },
   ]
 
